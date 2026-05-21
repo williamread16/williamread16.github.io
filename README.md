@@ -1,18 +1,15 @@
 <div align="center">
 
-# [Thesis Title]
+# Audio-Driven Facial Animation:
+# Investigating Audio Input in
+# Automatic Lip-Syncing
 
-*A Master's Thesis presented to [University Name] by [Your Name]*
+*William Read*
 
 </div>
 
 ---
 
-## Overview
-
-
 ## Abstract
-
-## Methodology
 
 ## Sample Videos etc
